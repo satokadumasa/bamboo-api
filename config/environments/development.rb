@@ -65,4 +65,5 @@ Rails.application.configure do
   # config.action_cable.disable_request_forgery_protection = true
   config.hosts << "www.september-rain.com"
   config.hosts << "api.september-rain.com"
+  config.hosts << "avalon-api.example.com"
 end
